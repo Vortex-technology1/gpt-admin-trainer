@@ -1,5 +1,5 @@
 {
-  "name": "gpt-admin-trainer",
+  "name": "gpt-admin-trainer-opir",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
